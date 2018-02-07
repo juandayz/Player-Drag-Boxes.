@@ -1,4 +1,5 @@
 # Player-Drag-Boxes.
+Original post:https://epochmod.com/forum/topic/43991-release-no-one-left-back/
 
 1.Open your fn_selfactions.sqf and find this line:
 
